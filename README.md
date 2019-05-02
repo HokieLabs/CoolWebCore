@@ -1,0 +1,1 @@
+[![Board Status](https://cool.visualstudio.com/b02d7a12-64fa-47f4-b789-15532f598d7c/2ada60e2-ca67-44cc-a1f4-eecb2b0bdb9f/_apis/work/boardbadge/2c8229c5-ad84-4822-af61-fbdd4e33e150)](https://cool.visualstudio.com/b02d7a12-64fa-47f4-b789-15532f598d7c/_boards/board/t/2ada60e2-ca67-44cc-a1f4-eecb2b0bdb9f/Microsoft.RequirementCategory)
